@@ -103,11 +103,9 @@ NYC Yellow Taxi Trip Data (Kaggle)
 Codtech-It-Solutions-Internship/
 │
 ├── Big_Data_Analysis/
+├── NYC_Yellow_Taxi_Dashboard.pbix/
 ├── Machine_Learning/
 ├── Sentiment_Analysis/
-├── PowerBI_Dashboard/
-│ ├── NYC_Yellow_Taxi_Dashboard.pbix
-│ └── Dashboard_Report.pdf
 ├── README.md
 
 
